@@ -5,7 +5,9 @@
 
 ## ip-adapter
 
-## animatediff
+## Animate
+
+## AI Portrait Photography
 
 
 ## Tips and hacks
